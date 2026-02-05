@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+mss
+pynput
+pywin32
+numpy
+tk
