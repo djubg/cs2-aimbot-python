@@ -40,21 +40,15 @@ This project is intended for educational purposes, demonstrating real-time objec
 
 ```bash
 git clone https://github.com/djubg/cs2-aimbot-python.git
+```
 Navigate to the project folder:
-
+```
 cd cs2-aimbot-python
+```
 Install dependencies:
-
+```
 pip install -r requirements.txt
-requirements.txt should include:
 
-ultralytics
-opencv-python
-mss
-pynput
-pywin32
-numpy
-tk
 ```
 
 ## Usage 🚀
