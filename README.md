@@ -54,8 +54,8 @@ mss
 pynput
 pywin32
 numpy
-tk##
-
+tk
+```
 
 Usage 🚀
 Run the main script:
