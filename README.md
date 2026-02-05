@@ -55,6 +55,8 @@ pynput
 pywin32
 numpy
 tk
+##
+
 Usage 🚀
 Run the main script:
 
