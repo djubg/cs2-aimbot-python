@@ -48,7 +48,6 @@ cd cs2-aimbot-python
 Install dependencies:
 ```
 pip install -r requirements.txt
-
 ```
 
 ## Usage 🚀
@@ -95,3 +94,10 @@ This project is for educational purposes only. Using aim assist in online multip
 ## License 📄
 MIT License
 https://choosealicense.com/licenses/mit/
+
+
+## Contact 📬
+
+For any inquiries, questions, or private discussion about the project, you can contact me on **Discord**:  
+
+**Discord:** `mama45fr1_70074`
