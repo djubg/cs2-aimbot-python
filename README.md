@@ -57,10 +57,12 @@ numpy
 tk
 ```
 
-Usage 🚀
+## Usage 🚀
 Run the main script:
-
+```
 python main.py
+```
+
 Configure the GUI:
 
 FOV (Field of View)
@@ -77,7 +79,7 @@ Right-click to lock/unlock targets.
 
 Open YOLO live view to debug detections.
 
-FAQ / Troubleshooting ❓
+## FAQ / Troubleshooting ❓
 Overlay not visible: Ensure Tkinter window is not minimized; overlay is always on top.
 
 YOLO detections slow: Reduce capture resolution or YOLO FPS.
@@ -86,16 +88,16 @@ Mouse movement jerky: Adjust deadzone and smoothing.
 
 Windows error _thread._local object has no attribute 'srcdc': Ensure MSS is instantiated in the main thread.
 
-Notes 📝
+## Notes 📝
 Head factor = 0.25, Body factor = 0.5 (adjustable)
 
 Overlay centered and always on top
 
 Dynamic deadzone prevents jitter on fast-moving targets
 
-Disclaimer ⚠️
+# Disclaimer ⚠️
 This project is for educational purposes only. Using aim assist in online multiplayer games may result in bans. The author is not responsible for misuse. Use responsibly.
 
-License 📄
+## License 📄
 MIT License
-(https://choosealicense.com/licenses/mit/)
+https://choosealicense.com/licenses/mit/
