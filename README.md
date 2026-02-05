@@ -88,16 +88,15 @@ Overlay centered and always on top
 
 Dynamic deadzone prevents jitter on fast-moving targets
 
-# Disclaimer ⚠️
-This project is for educational purposes only. Using aim assist in online multiplayer games may result in bans. The author is not responsible for misuse. Use responsibly.
-
-## License 📄
-MIT License
-https://choosealicense.com/licenses/mit/
-
-
 ## Contact 📬
 
 For any inquiries, questions, or private discussion about the project, you can contact me on **Discord**:  
 
 **Discord:** `mama45fr1_70074`
+
+## License 📄
+MIT License
+https://choosealicense.com/licenses/mit/
+
+# Disclaimer ⚠️
+This project is for educational purposes only. Using aim assist in online multiplayer games may result in bans. The author is not responsible for misuse. Use responsibly.
